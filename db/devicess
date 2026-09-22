@@ -1,0 +1,3450 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-09-22",
+  "note": "Bölge ekleri (_eea, _tr_global vb.) temel kod adından ayrıştırıldı. Tabletler çıkarıldı. Program cihazdan okuduğu kod adını 'varyantlar' listesinde arar, bulunca 'kod' alanını model kimliği kabul eder.",
+  "device_count": 311,
+  "devices": [
+    {
+      "base_codename": "agate",
+      "market_name": "11T",
+      "brand": "Xiaomi",
+      "variants": [
+        "agate",
+        "agate_eea_global",
+        "agate_global",
+        "agate_id_global",
+        "agate_in_global",
+        "agate_ru_global",
+        "agate_tr_global",
+        "agate_tw_global"
+      ]
+    },
+    {
+      "base_codename": "air",
+      "market_name": "13R 5G / 13C 5G",
+      "brand": "Redmi",
+      "variants": [
+        "air",
+        "air_eea_global",
+        "air_global",
+        "air_id_global",
+        "air_in_global",
+        "air_ru_global",
+        "air_tr_global",
+        "air_tw_global"
+      ]
+    },
+    {
+      "base_codename": "alioth",
+      "market_name": "F3",
+      "brand": "POCO/Redmi/Xiaomi",
+      "variants": [
+        "alioth",
+        "alioth_eea_global",
+        "alioth_global",
+        "alioth_id_global",
+        "alioth_in_global",
+        "alioth_ru_global",
+        "alioth_tr_global",
+        "alioth_tw_global"
+      ]
+    },
+    {
+      "base_codename": "amethyst",
+      "market_name": "Note 14 Pro+ 5G",
+      "brand": "Redmi",
+      "variants": [
+        "amethyst",
+        "amethyst_eea_global",
+        "amethyst_global",
+        "amethyst_id_global",
+        "amethyst_in_global",
+        "amethyst_jp_global",
+        "amethyst_ru_global",
+        "amethyst_tr_global",
+        "amethyst_tw_global"
+      ]
+    },
+    {
+      "base_codename": "andromeda",
+      "market_name": "MIX 3 5G",
+      "brand": "Xiaomi",
+      "variants": [
+        "andromeda",
+        "andromeda_eea_global",
+        "andromeda_global"
+      ]
+    },
+    {
+      "base_codename": "angelica",
+      "market_name": "9C",
+      "brand": "Redmi",
+      "variants": [
+        "angelica_eea_global",
+        "angelica_global",
+        "angelica_id_global",
+        "angelica_tr_global"
+      ]
+    },
+    {
+      "base_codename": "angelicain",
+      "market_name": "C3",
+      "brand": "POCO",
+      "variants": [
+        "angelicain_in_global",
+        "angelicain_in_rf_global"
+      ]
+    },
+    {
+      "base_codename": "angelican",
+      "market_name": "9C NFC",
+      "brand": "Redmi",
+      "variants": [
+        "angelican_eea_global",
+        "angelican_global",
+        "angelican_ru_global"
+      ]
+    },
+    {
+      "base_codename": "annibale",
+      "market_name": "K90",
+      "brand": "Redmi",
+      "variants": [
+        "annibale",
+        "annibale_eea_global",
+        "annibale_global",
+        "annibale_id_global",
+        "annibale_ru_global",
+        "annibale_tr_global",
+        "annibale_tw_global"
+      ]
+    },
+    {
+      "base_codename": "apollo",
+      "market_name": "K30S Ultra",
+      "brand": "Redmi/Xiaomi",
+      "variants": [
+        "apollo",
+        "apollo_eea_global",
+        "apollo_global",
+        "apollo_id_global",
+        "apollo_in_global",
+        "apollo_ru_global",
+        "apollo_tr_global",
+        "apollo_tw_global"
+      ]
+    },
+    {
+      "base_codename": "aqua",
+      "market_name": "4S",
+      "brand": "Xiaomi",
+      "variants": [
+        "aqua"
+      ]
+    },
+    {
+      "base_codename": "arctic",
+      "market_name": "A7 Pro / POCO C81 / C81 Pro",
+      "brand": "Redmi",
+      "variants": [
+        "arctic_eea_global",
+        "arctic_global",
+        "arctic_id_global",
+        "arctic_in_global",
+        "arctic_ru_global",
+        "arctic_tr_global"
+      ]
+    },
+    {
+      "base_codename": "ares",
+      "market_name": "F3 GT",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "ares",
+        "ares_in_global"
+      ]
+    },
+    {
+      "base_codename": "aries",
+      "market_name": "2S",
+      "brand": "Xiaomi",
+      "variants": [
+        "aries",
+        "aries_global"
+      ]
+    },
+    {
+      "base_codename": "aristotle",
+      "market_name": "13T",
+      "brand": "Xiaomi",
+      "variants": [
+        "aristotle_eea_global",
+        "aristotle_global",
+        "aristotle_id_global",
+        "aristotle_jp_global",
+        "aristotle_ru_global",
+        "aristotle_tr_global",
+        "aristotle_tw_global"
+      ]
+    },
+    {
+      "base_codename": "armani",
+      "market_name": "1S",
+      "brand": "Redmi",
+      "variants": [
+        "armani",
+        "armani_global"
+      ]
+    },
+    {
+      "base_codename": "athens",
+      "market_name": "F9 Pro",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "athens",
+        "athens_eea_global",
+        "athens_global",
+        "athens_id_global",
+        "athens_jp_global",
+        "athens_ru_global",
+        "athens_tr_global",
+        "athens_tw_global"
+      ]
+    },
+    {
+      "base_codename": "atom",
+      "market_name": "10X 5G",
+      "brand": "Redmi",
+      "variants": [
+        "atom"
+      ]
+    },
+    {
+      "base_codename": "aurora",
+      "market_name": "14 Ultra",
+      "brand": "Xiaomi",
+      "variants": [
+        "aurora",
+        "aurora_eea_global",
+        "aurora_global",
+        "aurora_id_global",
+        "aurora_in_global",
+        "aurora_ru_global",
+        "aurora_tr_global",
+        "aurora_tw_global"
+      ]
+    },
+    {
+      "base_codename": "babylon",
+      "market_name": "MIX Fold 3",
+      "brand": "Xiaomi",
+      "variants": [
+        "babylon"
+      ]
+    },
+    {
+      "base_codename": "begonia",
+      "market_name": "Note 8 Pro",
+      "brand": "Redmi",
+      "variants": [
+        "begonia",
+        "begonia_eea_global",
+        "begonia_global",
+        "begonia_id_global",
+        "begonia_ru_global"
+      ]
+    },
+    {
+      "base_codename": "begoniain",
+      "market_name": "Note 8 Pro",
+      "brand": "Redmi",
+      "variants": [
+        "begoniain_in_global"
+      ]
+    },
+    {
+      "base_codename": "beryl",
+      "market_name": "Note 14 5G",
+      "brand": "Redmi",
+      "variants": [
+        "beryl",
+        "beryl_eea_global",
+        "beryl_global",
+        "beryl_id_global",
+        "beryl_in_global",
+        "beryl_ru_global",
+        "beryl_tr_global",
+        "beryl_tw_global"
+      ]
+    },
+    {
+      "base_codename": "beryllium",
+      "market_name": "F1",
+      "brand": "POCO",
+      "variants": [
+        "beryllium_global",
+        "beryllium_ru_global"
+      ]
+    },
+    {
+      "base_codename": "biloba",
+      "market_name": "Note 8 (2021)",
+      "brand": "Redmi",
+      "variants": [
+        "biloba_eea_global",
+        "biloba_global",
+        "biloba_ru_global"
+      ]
+    },
+    {
+      "base_codename": "bixi",
+      "market_name": "MIX Flip 2",
+      "brand": "Xiaomi",
+      "variants": [
+        "bixi"
+      ]
+    },
+    {
+      "base_codename": "blue",
+      "market_name": "A3",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "blue_eea_global",
+        "blue_global",
+        "blue_id_global",
+        "blue_in_global",
+        "blue_ru_global"
+      ]
+    },
+    {
+      "base_codename": "bomb",
+      "market_name": "10X Pro",
+      "brand": "Redmi",
+      "variants": [
+        "bomb"
+      ]
+    },
+    {
+      "base_codename": "breeze",
+      "market_name": "Note 13R",
+      "brand": "Redmi",
+      "variants": [
+        "breeze",
+        "breeze_global",
+        "breeze_in_global"
+      ]
+    },
+    {
+      "base_codename": "brussels",
+      "market_name": "Note 17 Pro Max 5G",
+      "brand": "Redmi",
+      "variants": [
+        "brussels",
+        "brussels_eea_global",
+        "brussels_global",
+        "brussels_id_global",
+        "brussels_in_global",
+        "brussels_jp_global",
+        "brussels_ru_global",
+        "brussels_tr_global",
+        "brussels_tw_global"
+      ]
+    },
+    {
+      "base_codename": "byron",
+      "market_name": "17 Max",
+      "brand": "Xiaomi",
+      "variants": [
+        "byron"
+      ]
+    },
+    {
+      "base_codename": "cactus",
+      "market_name": "6A",
+      "brand": "Redmi",
+      "variants": [
+        "cactus",
+        "cactus_global",
+        "cactus_ru_global"
+      ]
+    },
+    {
+      "base_codename": "camellia",
+      "market_name": "Note 10 5G / Redmi Note 11SE",
+      "brand": "Redmi",
+      "variants": [
+        "camellia",
+        "camellia_in_global"
+      ]
+    },
+    {
+      "base_codename": "camellian",
+      "market_name": "Note 10 5G",
+      "brand": "Redmi",
+      "variants": [
+        "camellian_eea_global",
+        "camellian_global",
+        "camellian_id_global",
+        "camellian_ru_global",
+        "camellian_tr_global",
+        "camellian_tw_global"
+      ]
+    },
+    {
+      "base_codename": "cancro",
+      "market_name": "3",
+      "brand": "Xiaomi",
+      "variants": [
+        "cancro",
+        "cancro_global"
+      ]
+    },
+    {
+      "base_codename": "cancro_lte",
+      "market_name": "4 LTE CT",
+      "brand": "Xiaomi",
+      "variants": [
+        "cancro_lte_ct"
+      ]
+    },
+    {
+      "base_codename": "cannon",
+      "market_name": "Note 9 5G",
+      "brand": "Redmi",
+      "variants": [
+        "cannon"
+      ]
+    },
+    {
+      "base_codename": "cannong",
+      "market_name": "Note 9T",
+      "brand": "Redmi",
+      "variants": [
+        "cannong_eea_global",
+        "cannong_global",
+        "cannong_id_global",
+        "cannong_in_global",
+        "cannong_ru_global",
+        "cannong_tr_global",
+        "cannong_tw_global"
+      ]
+    },
+    {
+      "base_codename": "capricorn",
+      "market_name": "5s",
+      "brand": "Xiaomi",
+      "variants": [
+        "capricorn",
+        "capricorn_global"
+      ]
+    },
+    {
+      "base_codename": "cas",
+      "market_name": "10 Ultra",
+      "brand": "Xiaomi",
+      "variants": [
+        "cas"
+      ]
+    },
+    {
+      "base_codename": "cattail",
+      "market_name": "9 / 9 Activ",
+      "brand": "Redmi",
+      "variants": [
+        "cattail_in_global"
+      ]
+    },
+    {
+      "base_codename": "cepheus",
+      "market_name": "9",
+      "brand": "Xiaomi",
+      "variants": [
+        "cepheus",
+        "cepheus_eea_global",
+        "cepheus_global",
+        "cepheus_ru_global"
+      ]
+    },
+    {
+      "base_codename": "cereus",
+      "market_name": "6",
+      "brand": "Redmi",
+      "variants": [
+        "cereus",
+        "cereus_global",
+        "cereus_ru_global"
+      ]
+    },
+    {
+      "base_codename": "cetus",
+      "market_name": "MIX Fold",
+      "brand": "Xiaomi",
+      "variants": [
+        "cetus"
+      ]
+    },
+    {
+      "base_codename": "cezanne",
+      "market_name": "K30 Ultra",
+      "brand": "Redmi",
+      "variants": [
+        "cezanne"
+      ]
+    },
+    {
+      "base_codename": "chagall",
+      "market_name": "17T",
+      "brand": "Xiaomi",
+      "variants": [
+        "chagall",
+        "chagall_eea_global",
+        "chagall_global",
+        "chagall_id_global",
+        "chagall_in_global",
+        "chagall_ru_global",
+        "chagall_tr_global",
+        "chagall_tw_global"
+      ]
+    },
+    {
+      "base_codename": "charoite",
+      "market_name": "Note 15 Pro 4G",
+      "brand": "Redmi",
+      "variants": [
+        "charoite_eea_global",
+        "charoite_global",
+        "charoite_id_global",
+        "charoite_ru_global",
+        "charoite_tr_global"
+      ]
+    },
+    {
+      "base_codename": "chenfeng",
+      "market_name": "Civi 4 Pro",
+      "brand": "Xiaomi",
+      "variants": [
+        "chenfeng",
+        "chenfeng_global",
+        "chenfeng_in_global"
+      ]
+    },
+    {
+      "base_codename": "chiron",
+      "market_name": "MIX 2",
+      "brand": "Xiaomi",
+      "variants": [
+        "chiron",
+        "chiron_global"
+      ]
+    },
+    {
+      "base_codename": "chopin",
+      "market_name": "X3 GT",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "chopin",
+        "chopin_global",
+        "chopin_id_global",
+        "chopin_in_global",
+        "chopin_tr_global"
+      ]
+    },
+    {
+      "base_codename": "citrus",
+      "market_name": "M3",
+      "brand": "POCO",
+      "variants": [
+        "citrus_eea_global",
+        "citrus_global",
+        "citrus_id_global",
+        "citrus_in_global",
+        "citrus_ru_global",
+        "citrus_tr_global",
+        "citrus_tw_global"
+      ]
+    },
+    {
+      "base_codename": "cmi",
+      "market_name": "10 Pro",
+      "brand": "Xiaomi",
+      "variants": [
+        "cmi",
+        "cmi_eea_global",
+        "cmi_global"
+      ]
+    },
+    {
+      "base_codename": "corot",
+      "market_name": "13T Pro",
+      "brand": "Redmi/Xiaomi",
+      "variants": [
+        "corot",
+        "corot_eea_global",
+        "corot_global",
+        "corot_jp_global",
+        "corot_ru_global",
+        "corot_tr_global",
+        "corot_tw_global"
+      ]
+    },
+    {
+      "base_codename": "courbet",
+      "market_name": "11 Lite 4G",
+      "brand": "Xiaomi",
+      "variants": [
+        "courbet_eea_global",
+        "courbet_global",
+        "courbet_id_global",
+        "courbet_in_global",
+        "courbet_ru_global",
+        "courbet_tr_global"
+      ]
+    },
+    {
+      "base_codename": "creek",
+      "market_name": "15 / POCO M7",
+      "brand": "Redmi",
+      "variants": [
+        "creek_eea_global",
+        "creek_global",
+        "creek_id_global",
+        "creek_ru_global",
+        "creek_tr_global",
+        "creek_tw_global"
+      ]
+    },
+    {
+      "base_codename": "crux",
+      "market_name": "9 Pro 5G",
+      "brand": "Xiaomi",
+      "variants": [
+        "crux"
+      ]
+    },
+    {
+      "base_codename": "cupid",
+      "market_name": "12",
+      "brand": "Xiaomi",
+      "variants": [
+        "cupid",
+        "cupid_eea_global",
+        "cupid_global",
+        "cupid_id_global",
+        "cupid_ru_global",
+        "cupid_tr_global",
+        "cupid_tw_global"
+      ]
+    },
+    {
+      "base_codename": "curtana",
+      "market_name": "Note 9S",
+      "brand": "Redmi",
+      "variants": [
+        "curtana_eea_global",
+        "curtana_global",
+        "curtana_in_global",
+        "curtana_in_rf_global",
+        "curtana_ru_global",
+        "curtana_tr_global"
+      ]
+    },
+    {
+      "base_codename": "dada",
+      "market_name": "15",
+      "brand": "Xiaomi",
+      "variants": [
+        "dada",
+        "dada_eea_global",
+        "dada_global",
+        "dada_id_global",
+        "dada_in_global",
+        "dada_ru_global",
+        "dada_tr_global",
+        "dada_tw_global"
+      ]
+    },
+    {
+      "base_codename": "daisy",
+      "market_name": "A2 Lite",
+      "brand": "Xiaomi",
+      "variants": [
+        "daisy_global"
+      ]
+    },
+    {
+      "base_codename": "dali",
+      "market_name": "K80 Ultra",
+      "brand": "Redmi",
+      "variants": [
+        "dali"
+      ]
+    },
+    {
+      "base_codename": "dandelion",
+      "market_name": "9A",
+      "brand": "Redmi",
+      "variants": [
+        "dandelion",
+        "dandelion_eea_global",
+        "dandelion_global",
+        "dandelion_id_global",
+        "dandelion_in_global",
+        "dandelion_ru_global",
+        "dandelion_tr_global"
+      ]
+    },
+    {
+      "base_codename": "dandelion_c3l2",
+      "market_name": "10A",
+      "brand": "Redmi",
+      "variants": [
+        "dandelion_c3l2",
+        "dandelion_c3l2_eea_global",
+        "dandelion_c3l2_global",
+        "dandelion_c3l2_id_global",
+        "dandelion_c3l2_in_global",
+        "dandelion_c3l2_ru_global",
+        "dandelion_c3l2_tw_global"
+      ]
+    },
+    {
+      "base_codename": "dash",
+      "market_name": "X8 Pro Max",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "dash",
+        "dash_eea_global",
+        "dash_global",
+        "dash_id_global",
+        "dash_in_global",
+        "dash_ru_global",
+        "dash_tr_global",
+        "dash_tw_global"
+      ]
+    },
+    {
+      "base_codename": "daumier",
+      "market_name": "12 Pro Dimensity",
+      "brand": "Xiaomi",
+      "variants": [
+        "daumier"
+      ]
+    },
+    {
+      "base_codename": "davinci",
+      "market_name": "9T",
+      "brand": "Redmi/Xiaomi",
+      "variants": [
+        "davinci",
+        "davinci_eea_global",
+        "davinci_global",
+        "davinci_ru_global"
+      ]
+    },
+    {
+      "base_codename": "davinciin",
+      "market_name": "K20",
+      "brand": "Redmi",
+      "variants": [
+        "davinciin_in_global"
+      ]
+    },
+    {
+      "base_codename": "degas",
+      "market_name": "14T",
+      "brand": "Xiaomi",
+      "variants": [
+        "degas_eea_global",
+        "degas_global",
+        "degas_id_global",
+        "degas_ru_global",
+        "degas_tr_global",
+        "degas_tw_global"
+      ]
+    },
+    {
+      "base_codename": "dew",
+      "market_name": "15C / POCO C85",
+      "brand": "Redmi",
+      "variants": [
+        "dew_eea_global",
+        "dew_global",
+        "dew_id_global",
+        "dew_ru_global",
+        "dew_tr_global",
+        "dew_tw_global"
+      ]
+    },
+    {
+      "base_codename": "dijun",
+      "market_name": "15S Pro",
+      "brand": "Xiaomi",
+      "variants": [
+        "dijun"
+      ]
+    },
+    {
+      "base_codename": "dior",
+      "market_name": "Note 4G",
+      "brand": "Redmi",
+      "variants": [
+        "dior",
+        "dior_global"
+      ]
+    },
+    {
+      "base_codename": "dipper",
+      "market_name": "8",
+      "brand": "Xiaomi",
+      "variants": [
+        "dipper",
+        "dipper_global",
+        "dipper_ru_global"
+      ]
+    },
+    {
+      "base_codename": "diting",
+      "market_name": "12T Pro",
+      "brand": "Redmi/Xiaomi",
+      "variants": [
+        "diting",
+        "diting_eea_global",
+        "diting_global",
+        "diting_jp_global",
+        "diting_ru_global",
+        "diting_tr_global",
+        "diting_tw_global"
+      ]
+    },
+    {
+      "base_codename": "duchamp",
+      "market_name": "K70E",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "duchamp",
+        "duchamp_eea_global",
+        "duchamp_global",
+        "duchamp_id_global",
+        "duchamp_in_global",
+        "duchamp_ru_global",
+        "duchamp_tr_global",
+        "duchamp_tw_global"
+      ]
+    },
+    {
+      "base_codename": "earth",
+      "market_name": "12C",
+      "brand": "Redmi",
+      "variants": [
+        "earth",
+        "earth_eea_global",
+        "earth_global",
+        "earth_id_global",
+        "earth_in_global",
+        "earth_ru_global",
+        "earth_tr_global",
+        "earth_tw_global"
+      ]
+    },
+    {
+      "base_codename": "emerald",
+      "market_name": "Note 13 Pro 4G / POCO M6 Pro",
+      "brand": "Redmi",
+      "variants": [
+        "emerald_eea_global",
+        "emerald_global",
+        "emerald_id_global",
+        "emerald_ru_global",
+        "emerald_tr_global"
+      ]
+    },
+    {
+      "base_codename": "emerald_r",
+      "market_name": "Note 14S",
+      "brand": "Redmi",
+      "variants": [
+        "emerald_r_eea_global",
+        "emerald_r_global",
+        "emerald_r_ru_global",
+        "emerald_r_tr_global"
+      ]
+    },
+    {
+      "base_codename": "emeraldr",
+      "market_name": "M6 Pro",
+      "brand": "POCO",
+      "variants": [
+        "emeraldr"
+      ]
+    },
+    {
+      "base_codename": "equuleus",
+      "market_name": "8 Pro",
+      "brand": "Xiaomi",
+      "variants": [
+        "equuleus",
+        "equuleus_global",
+        "equuleus_ru_global"
+      ]
+    },
+    {
+      "base_codename": "evergo",
+      "market_name": "Note 11 5G",
+      "brand": "Redmi",
+      "variants": [
+        "evergo",
+        "evergo_in_global"
+      ]
+    },
+    {
+      "base_codename": "evergreen",
+      "market_name": "M4 Pro 5G",
+      "brand": "POCO",
+      "variants": [
+        "evergreen_eea_global",
+        "evergreen_global",
+        "evergreen_id_global",
+        "evergreen_ru_global",
+        "evergreen_tr_global",
+        "evergreen_tw_global"
+      ]
+    },
+    {
+      "base_codename": "excalibur",
+      "market_name": "Note 9 Pro Max",
+      "brand": "Redmi",
+      "variants": [
+        "excalibur_in_global"
+      ]
+    },
+    {
+      "base_codename": "ferrari",
+      "market_name": "4i",
+      "brand": "Xiaomi",
+      "variants": [
+        "ferrari",
+        "ferrari_global"
+      ]
+    },
+    {
+      "base_codename": "fire",
+      "market_name": "12",
+      "brand": "Redmi",
+      "variants": [
+        "fire_eea_global",
+        "fire_global",
+        "fire_id_global",
+        "fire_in_global",
+        "fire_ru_global",
+        "fire_tr_global"
+      ]
+    },
+    {
+      "base_codename": "flame",
+      "market_name": "14R 5G",
+      "brand": "Redmi",
+      "variants": [
+        "flame",
+        "flame_eea_global",
+        "flame_global",
+        "flame_id_global",
+        "flame_in_global",
+        "flame_jp_global",
+        "flame_ru_global",
+        "flame_tr_global",
+        "flame_tw_global"
+      ]
+    },
+    {
+      "base_codename": "fleur",
+      "market_name": "Note 11S 4G / POCO M4 Pro 4G",
+      "brand": "Redmi",
+      "variants": [
+        "fleur_eea_global",
+        "fleur_global",
+        "fleur_id_global",
+        "fleur_in_global",
+        "fleur_ru_global",
+        "fleur_tr_global",
+        "fleur_tw_global"
+      ]
+    },
+    {
+      "base_codename": "flourite",
+      "market_name": "Note 15 Pro+ 5G",
+      "brand": "Redmi",
+      "variants": [
+        "flourite",
+        "flourite_eea_global",
+        "flourite_global",
+        "flourite_id_global",
+        "flourite_in_global",
+        "flourite_ru_global",
+        "flourite_tr_global",
+        "flourite_tw_global"
+      ]
+    },
+    {
+      "base_codename": "fog",
+      "market_name": "10C",
+      "brand": "Redmi",
+      "variants": [
+        "fog_eea_global",
+        "fog_global",
+        "fog_id_global",
+        "fog_in_global",
+        "fog_ru_global",
+        "fog_tr_global",
+        "fog_tw_global"
+      ]
+    },
+    {
+      "base_codename": "frost",
+      "market_name": "C40",
+      "brand": "POCO",
+      "variants": [
+        "frost_eea_global",
+        "frost_global",
+        "frost_id_global",
+        "frost_in_global",
+        "frost_ru_global",
+        "frost_tr_global",
+        "frost_tw_global"
+      ]
+    },
+    {
+      "base_codename": "fuxi",
+      "market_name": "13",
+      "brand": "Xiaomi",
+      "variants": [
+        "fuxi",
+        "fuxi_eea_global",
+        "fuxi_global",
+        "fuxi_id_global",
+        "fuxi_ru_global",
+        "fuxi_tr_global",
+        "fuxi_tw_global"
+      ]
+    },
+    {
+      "base_codename": "gale",
+      "market_name": "13C / POCO C65",
+      "brand": "Redmi",
+      "variants": [
+        "gale_eea_global",
+        "gale_global",
+        "gale_id_global",
+        "gale_in_global",
+        "gale_ru_global",
+        "gale_tr_global",
+        "gale_tw_global"
+      ]
+    },
+    {
+      "base_codename": "garnet",
+      "market_name": "Note 13 Pro 5G",
+      "brand": "Redmi",
+      "variants": [
+        "garnet",
+        "garnet_eea_global",
+        "garnet_global",
+        "garnet_id_global",
+        "garnet_in_global",
+        "garnet_ru_global",
+        "garnet_tr_global",
+        "garnet_tw_global"
+      ]
+    },
+    {
+      "base_codename": "gauguin",
+      "market_name": "10i",
+      "brand": "Redmi/Xiaomi",
+      "variants": [
+        "gauguin",
+        "gauguin_eea_global",
+        "gauguin_global",
+        "gauguin_in_global",
+        "gauguin_ru_global",
+        "gauguin_tr_global",
+        "gauguin_tw_global"
+      ]
+    },
+    {
+      "base_codename": "gemini",
+      "market_name": "5",
+      "brand": "Xiaomi",
+      "variants": [
+        "gemini",
+        "gemini_global"
+      ]
+    },
+    {
+      "base_codename": "ginkgo",
+      "market_name": "Note 8",
+      "brand": "Redmi",
+      "variants": [
+        "ginkgo",
+        "ginkgo_eea_global",
+        "ginkgo_global",
+        "ginkgo_id_global",
+        "ginkgo_in_global",
+        "ginkgo_ru_global"
+      ]
+    },
+    {
+      "base_codename": "goku",
+      "market_name": "MIX Fold 4",
+      "brand": "Xiaomi",
+      "variants": [
+        "goku"
+      ]
+    },
+    {
+      "base_codename": "gold",
+      "market_name": "Note 13 5G / 13R Pro",
+      "brand": "Redmi",
+      "variants": [
+        "gold",
+        "gold_eea_global",
+        "gold_global",
+        "gold_id_global",
+        "gold_in_global",
+        "gold_tr_global",
+        "gold_tw_global"
+      ]
+    },
+    {
+      "base_codename": "goya",
+      "market_name": "15T",
+      "brand": "Xiaomi",
+      "variants": [
+        "goya_eea_global",
+        "goya_global",
+        "goya_id_global",
+        "goya_ru_global",
+        "goya_tr_global",
+        "goya_tw_global"
+      ]
+    },
+    {
+      "base_codename": "gram",
+      "market_name": "M2 Pro",
+      "brand": "POCO",
+      "variants": [
+        "gram_in_global"
+      ]
+    },
+    {
+      "base_codename": "grus",
+      "market_name": "9 SE",
+      "brand": "Xiaomi",
+      "variants": [
+        "grus",
+        "grus_eea_global",
+        "grus_global",
+        "grus_ru_global"
+      ]
+    },
+    {
+      "base_codename": "gucci",
+      "market_name": "Note 1S 4G",
+      "brand": "Redmi",
+      "variants": [
+        "gucci",
+        "gucci_global"
+      ]
+    },
+    {
+      "base_codename": "haotian",
+      "market_name": "15 Pro",
+      "brand": "Xiaomi",
+      "variants": [
+        "haotian"
+      ]
+    },
+    {
+      "base_codename": "haydn",
+      "market_name": "11i",
+      "brand": "Redmi/Xiaomi",
+      "variants": [
+        "haydn",
+        "haydn_eea_global",
+        "haydn_global",
+        "haydn_id_global",
+        "haydn_in_global",
+        "haydn_ru_global",
+        "haydn_tr_global",
+        "haydn_tw_global"
+      ]
+    },
+    {
+      "base_codename": "helium",
+      "market_name": "Max Prime",
+      "brand": "Xiaomi",
+      "variants": [
+        "helium",
+        "helium_global"
+      ]
+    },
+    {
+      "base_codename": "hennessy",
+      "market_name": "Note 3 (MTK)",
+      "brand": "Redmi",
+      "variants": [
+        "hennessy"
+      ]
+    },
+    {
+      "base_codename": "hermes",
+      "market_name": "Note 2",
+      "brand": "Redmi",
+      "variants": [
+        "hermes",
+        "hermes_global"
+      ]
+    },
+    {
+      "base_codename": "HM2013022",
+      "market_name": "1",
+      "brand": "Redmi",
+      "variants": [
+        "HM2013022"
+      ]
+    },
+    {
+      "base_codename": "HM2013023",
+      "market_name": "1 W",
+      "brand": "Redmi",
+      "variants": [
+        "HM2013023",
+        "HM2013023_sg_global"
+      ]
+    },
+    {
+      "base_codename": "HM2014011",
+      "market_name": "1S TD 3G",
+      "brand": "Redmi",
+      "variants": [
+        "HM2014011"
+      ]
+    },
+    {
+      "base_codename": "HM2014501",
+      "market_name": "1S TD 4G",
+      "brand": "Redmi",
+      "variants": [
+        "HM2014501"
+      ]
+    },
+    {
+      "base_codename": "HM2014811",
+      "market_name": "2 LTE",
+      "brand": "Redmi",
+      "variants": [
+        "HM2014811"
+      ]
+    },
+    {
+      "base_codename": "HM2014813",
+      "market_name": "2 LTE",
+      "brand": "Redmi",
+      "variants": [
+        "HM2014813"
+      ]
+    },
+    {
+      "base_codename": "houji",
+      "market_name": "14",
+      "brand": "Xiaomi",
+      "variants": [
+        "houji",
+        "houji_eea_global",
+        "houji_global",
+        "houji_id_global",
+        "houji_in_global",
+        "houji_ru_global",
+        "houji_tr_global",
+        "houji_tw_global"
+      ]
+    },
+    {
+      "base_codename": "hydrogen",
+      "market_name": "Max",
+      "brand": "Xiaomi",
+      "variants": [
+        "hydrogen",
+        "hydrogen_global"
+      ]
+    },
+    {
+      "base_codename": "ice",
+      "market_name": "A1 / POCO C50",
+      "brand": "Redmi",
+      "variants": [
+        "ice_eea_global",
+        "ice_global",
+        "ice_id_global",
+        "ice_in_global",
+        "ice_ru_global",
+        "ice_tr_global",
+        "ice_tw_global"
+      ]
+    },
+    {
+      "base_codename": "ido_xhdpi",
+      "market_name": "3",
+      "brand": "Redmi",
+      "variants": [
+        "ido_xhdpi",
+        "ido_xhdpi_global"
+      ]
+    },
+    {
+      "base_codename": "ingres",
+      "market_name": "K50G",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "ingres",
+        "ingres_eea_global",
+        "ingres_global",
+        "ingres_id_global",
+        "ingres_ru_global",
+        "ingres_tr_global",
+        "ingres_tw_global"
+      ]
+    },
+    {
+      "base_codename": "iolite",
+      "market_name": "Note 17 Pro 5G",
+      "brand": "Redmi",
+      "variants": [
+        "iolite",
+        "iolite_eea_global",
+        "iolite_global",
+        "iolite_id_global",
+        "iolite_in_global",
+        "iolite_jp_global",
+        "iolite_ru_global",
+        "iolite_tr_global",
+        "iolite_tw_global"
+      ]
+    },
+    {
+      "base_codename": "ishtar",
+      "market_name": "13 Ultra",
+      "brand": "Xiaomi",
+      "variants": [
+        "ishtar",
+        "ishtar_eea_global",
+        "ishtar_global",
+        "ishtar_ru_global",
+        "ishtar_tw_global"
+      ]
+    },
+    {
+      "base_codename": "jasmine",
+      "market_name": "A2",
+      "brand": "Xiaomi",
+      "variants": [
+        "jasmine_global"
+      ]
+    },
+    {
+      "base_codename": "jason",
+      "market_name": "Note 3",
+      "brand": "Xiaomi",
+      "variants": [
+        "jason",
+        "jason_global"
+      ]
+    },
+    {
+      "base_codename": "joyeuse",
+      "market_name": "Note 9 Pro",
+      "brand": "Redmi",
+      "variants": [
+        "joyeuse_eea_global",
+        "joyeuse_global",
+        "joyeuse_id_global",
+        "joyeuse_ru_global",
+        "joyeuse_tr_global",
+        "joyeuse_tw_global"
+      ]
+    },
+    {
+      "base_codename": "kate",
+      "market_name": "Note 3 SE",
+      "brand": "Redmi",
+      "variants": [
+        "kate_global"
+      ]
+    },
+    {
+      "base_codename": "kenzo",
+      "market_name": "Note 3 Pro",
+      "brand": "Redmi",
+      "variants": [
+        "kenzo",
+        "kenzo_global"
+      ]
+    },
+    {
+      "base_codename": "klee",
+      "market_name": "X8 Pro",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "klee",
+        "klee_eea_global",
+        "klee_global",
+        "klee_id_global",
+        "klee_in_global",
+        "klee_ru_global",
+        "klee_tr_global",
+        "klee_tw_global"
+      ]
+    },
+    {
+      "base_codename": "klein",
+      "market_name": "A3x",
+      "brand": "Redmi",
+      "variants": [
+        "klein_global",
+        "klein_in_global",
+        "klein_ru_global"
+      ]
+    },
+    {
+      "base_codename": "klimt",
+      "market_name": "15T Pro",
+      "brand": "Xiaomi",
+      "variants": [
+        "klimt_eea_global",
+        "klimt_global",
+        "klimt_id_global",
+        "klimt_jp_global",
+        "klimt_ru_global",
+        "klimt_tr_global",
+        "klimt_tw_global"
+      ]
+    },
+    {
+      "base_codename": "kunzite",
+      "market_name": "Note 15 5G",
+      "brand": "Redmi",
+      "variants": [
+        "kunzite",
+        "kunzite_eea_global",
+        "kunzite_global",
+        "kunzite_id_global",
+        "kunzite_in_global",
+        "kunzite_ru_global",
+        "kunzite_tr_global",
+        "kunzite_tw_global"
+      ]
+    },
+    {
+      "base_codename": "lake",
+      "market_name": "14C/17C/A3 Pro/POCO C75",
+      "brand": "Redmi",
+      "variants": [
+        "lake_eea_global",
+        "lake_global",
+        "lake_id_global",
+        "lake_in_global",
+        "lake_ru_global",
+        "lake_tr_global",
+        "lake_tw_global"
+      ]
+    },
+    {
+      "base_codename": "lancelot",
+      "market_name": "9",
+      "brand": "Redmi",
+      "variants": [
+        "lancelot",
+        "lancelot_eea_global",
+        "lancelot_global",
+        "lancelot_id_global",
+        "lancelot_in_global",
+        "lancelot_ru_global",
+        "lancelot_tr_global"
+      ]
+    },
+    {
+      "base_codename": "land",
+      "market_name": "3S",
+      "brand": "Redmi",
+      "variants": [
+        "land",
+        "land_global"
+      ]
+    },
+    {
+      "base_codename": "lapis",
+      "market_name": "Note 15 Pro 5G",
+      "brand": "Redmi",
+      "variants": [
+        "lapis",
+        "lapis_eea_global",
+        "lapis_global",
+        "lapis_id_global",
+        "lapis_in_global",
+        "lapis_jp_global",
+        "lapis_ru_global",
+        "lapis_tr_global",
+        "lapis_tw_global"
+      ]
+    },
+    {
+      "base_codename": "latte",
+      "market_name": "MiPad 2",
+      "brand": "Xiaomi",
+      "variants": [
+        "latte"
+      ]
+    },
+    {
+      "base_codename": "laurel_sprout",
+      "market_name": "A3",
+      "brand": "Xiaomi",
+      "variants": [
+        "laurel_sprout_eea_global",
+        "laurel_sprout_global"
+      ]
+    },
+    {
+      "base_codename": "laurus",
+      "market_name": "CC 9e",
+      "brand": "Xiaomi",
+      "variants": [
+        "laurus"
+      ]
+    },
+    {
+      "base_codename": "lavender",
+      "market_name": "Note 7",
+      "brand": "Redmi",
+      "variants": [
+        "lavender",
+        "lavender_eea_global",
+        "lavender_global",
+        "lavender_in_global",
+        "lavender_ru_global"
+      ]
+    },
+    {
+      "base_codename": "lcsh92_wet_jb9",
+      "market_name": "Note 3G",
+      "brand": "Redmi",
+      "variants": [
+        "lcsh92_wet_jb9",
+        "lcsh92_wet_jb9_global"
+      ]
+    },
+    {
+      "base_codename": "lcsh92_wet_tdd",
+      "market_name": "Note 1 TD",
+      "brand": "Redmi",
+      "variants": [
+        "lcsh92_wet_tdd"
+      ]
+    },
+    {
+      "base_codename": "leedsa",
+      "market_name": "17",
+      "brand": "Redmi",
+      "variants": [
+        "leedsa",
+        "leedsa_eea_global",
+        "leedsa_global",
+        "leedsa_id_global",
+        "leedsa_jp_global",
+        "leedsa_ru_global",
+        "leedsa_tr_global",
+        "leedsa_tw_global"
+      ]
+    },
+    {
+      "base_codename": "leo",
+      "market_name": "Note Pro",
+      "brand": "Xiaomi",
+      "variants": [
+        "leo"
+      ]
+    },
+    {
+      "base_codename": "lhasa",
+      "market_name": "18 Fold",
+      "brand": "Xiaomi",
+      "variants": [
+        "lhasa"
+      ]
+    },
+    {
+      "base_codename": "libra",
+      "market_name": "4c",
+      "brand": "Xiaomi",
+      "variants": [
+        "libra"
+      ]
+    },
+    {
+      "base_codename": "light",
+      "market_name": "Note 11E",
+      "brand": "Redmi",
+      "variants": [
+        "light",
+        "light_eea_global",
+        "light_global",
+        "light_id_global",
+        "light_in_global",
+        "light_ru_global",
+        "light_tr_global",
+        "light_tw_global"
+      ]
+    },
+    {
+      "base_codename": "lightcm",
+      "market_name": "Note 11R",
+      "brand": "Redmi",
+      "variants": [
+        "lightcm"
+      ]
+    },
+    {
+      "base_codename": "lilac",
+      "market_name": "Note 10T",
+      "brand": "Redmi",
+      "variants": [
+        "lilac_jp_global"
+      ]
+    },
+    {
+      "base_codename": "lime",
+      "market_name": "9T",
+      "brand": "Redmi",
+      "variants": [
+        "lime",
+        "lime_eea_global",
+        "lime_global",
+        "lime_id_global",
+        "lime_in_global",
+        "lime_ru_global",
+        "lime_tr_global",
+        "lime_tw_global"
+      ]
+    },
+    {
+      "base_codename": "lisa",
+      "market_name": "11 LE",
+      "brand": "Xiaomi",
+      "variants": [
+        "lisa",
+        "lisa_eea_global",
+        "lisa_global",
+        "lisa_id_global",
+        "lisa_in_global",
+        "lisa_ru_global",
+        "lisa_tr_global",
+        "lisa_tw_global"
+      ]
+    },
+    {
+      "base_codename": "lithium",
+      "market_name": "MIX",
+      "brand": "Xiaomi",
+      "variants": [
+        "lithium",
+        "lithium_global"
+      ]
+    },
+    {
+      "base_codename": "lmi",
+      "market_name": "F2 Pro",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "lmi",
+        "lmi_eea_global",
+        "lmi_global",
+        "lmi_id_global",
+        "lmi_ru_global",
+        "lmi_tr_global"
+      ]
+    },
+    {
+      "base_codename": "lotus",
+      "market_name": "Play",
+      "brand": "Xiaomi",
+      "variants": [
+        "lotus",
+        "lotus_global",
+        "lotus_ru_global"
+      ]
+    },
+    {
+      "base_codename": "lte26007",
+      "market_name": "2A",
+      "brand": "Redmi",
+      "variants": [
+        "lte26007"
+      ]
+    },
+    {
+      "base_codename": "luming",
+      "market_name": "Civi 5 Pro",
+      "brand": "Xiaomi",
+      "variants": [
+        "luming"
+      ]
+    },
+    {
+      "base_codename": "malachite",
+      "market_name": "Note 14 Pro 5G / POCO X7",
+      "brand": "Redmi",
+      "variants": [
+        "malachite",
+        "malachite_eea_global",
+        "malachite_global",
+        "malachite_id_global",
+        "malachite_in_global",
+        "malachite_ru_global",
+        "malachite_tr_global",
+        "malachite_tw_global"
+      ]
+    },
+    {
+      "base_codename": "manet",
+      "market_name": "K70 Pro",
+      "brand": "Redmi",
+      "variants": [
+        "manet"
+      ]
+    },
+    {
+      "base_codename": "marble",
+      "market_name": "F5",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "marble",
+        "marble_eea_global",
+        "marble_global",
+        "marble_id_global",
+        "marble_in_global",
+        "marble_ru_global",
+        "marble_tr_global",
+        "marble_tw_global"
+      ]
+    },
+    {
+      "base_codename": "markw",
+      "market_name": "4 Prime",
+      "brand": "Redmi",
+      "variants": [
+        "markw",
+        "markw_global"
+      ]
+    },
+    {
+      "base_codename": "matisse",
+      "market_name": "K50 Pro",
+      "brand": "Redmi",
+      "variants": [
+        "matisse"
+      ]
+    },
+    {
+      "base_codename": "mayfly",
+      "market_name": "12S",
+      "brand": "Xiaomi",
+      "variants": [
+        "mayfly"
+      ]
+    },
+    {
+      "base_codename": "meri",
+      "market_name": "5C",
+      "brand": "Xiaomi",
+      "variants": [
+        "meri"
+      ]
+    },
+    {
+      "base_codename": "merlin",
+      "market_name": "10X 4G",
+      "brand": "Redmi",
+      "variants": [
+        "merlin",
+        "merlin_eea_global",
+        "merlin_global",
+        "merlin_id_global",
+        "merlin_in_global",
+        "merlin_ru_global",
+        "merlin_tr_global",
+        "merlin_tw_global"
+      ]
+    },
+    {
+      "base_codename": "mido",
+      "market_name": "Note 4",
+      "brand": "Redmi",
+      "variants": [
+        "mido",
+        "mido_global"
+      ]
+    },
+    {
+      "base_codename": "mione_plus",
+      "market_name": "1S",
+      "brand": "Xiaomi",
+      "variants": [
+        "mione_plus"
+      ]
+    },
+    {
+      "base_codename": "miro",
+      "market_name": "K80 Pro",
+      "brand": "Redmi",
+      "variants": [
+        "miro",
+        "miro_eea_global",
+        "miro_global",
+        "miro_id_global",
+        "miro_ru_global",
+        "miro_tr_global",
+        "miro_tw_global"
+      ]
+    },
+    {
+      "base_codename": "mist",
+      "market_name": "Note 17 5G",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "mist",
+        "mist_eea_global",
+        "mist_global",
+        "mist_id_global",
+        "mist_in_global",
+        "mist_ru_global",
+        "mist_tr_global",
+        "mist_tw_global"
+      ]
+    },
+    {
+      "base_codename": "mocha",
+      "market_name": "MiPad 1",
+      "brand": "Xiaomi",
+      "variants": [
+        "mocha",
+        "mocha_global"
+      ]
+    },
+    {
+      "base_codename": "mojito",
+      "market_name": "Note 10",
+      "brand": "Redmi",
+      "variants": [
+        "mojito_eea_global",
+        "mojito_global",
+        "mojito_id_global",
+        "mojito_in_global",
+        "mojito_ru_global",
+        "mojito_tr_global"
+      ]
+    },
+    {
+      "base_codename": "mona",
+      "market_name": "Civi",
+      "brand": "Xiaomi",
+      "variants": [
+        "mona"
+      ]
+    },
+    {
+      "base_codename": "mondrian",
+      "market_name": "K60",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "mondrian",
+        "mondrian_eea_global",
+        "mondrian_global",
+        "mondrian_in_global",
+        "mondrian_ru_global",
+        "mondrian_tr_global",
+        "mondrian_tw_global"
+      ]
+    },
+    {
+      "base_codename": "monet",
+      "market_name": "10 Lite",
+      "brand": "Xiaomi",
+      "variants": [
+        "monet_eea_global",
+        "monet_global",
+        "monet_tw_global"
+      ]
+    },
+    {
+      "base_codename": "moon",
+      "market_name": "13 / POCO M6",
+      "brand": "Redmi",
+      "variants": [
+        "moon_eea_global",
+        "moon_global",
+        "moon_id_global",
+        "moon_ru_global",
+        "moon_tr_global",
+        "moon_tw_global"
+      ]
+    },
+    {
+      "base_codename": "moonstone",
+      "market_name": "X5 5G",
+      "brand": "POCO",
+      "variants": [
+        "moonstone_eea_global",
+        "moonstone_global",
+        "moonstone_id_global",
+        "moonstone_in_global",
+        "moonstone_ru_global",
+        "moonstone_tr_global",
+        "moonstone_tw_global"
+      ]
+    },
+    {
+      "base_codename": "munch",
+      "market_name": "F4",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "munch",
+        "munch_eea_global",
+        "munch_global",
+        "munch_id_global",
+        "munch_in_global",
+        "munch_ru_global",
+        "munch_tr_global",
+        "munch_tw_global"
+      ]
+    },
+    {
+      "base_codename": "myron",
+      "market_name": "K90 Pro Max",
+      "brand": "Redmi",
+      "variants": [
+        "myron",
+        "myron_eea_global",
+        "myron_global",
+        "myron_id_global",
+        "myron_ru_global",
+        "myron_tr_global",
+        "myron_tw_global"
+      ]
+    },
+    {
+      "base_codename": "natrium",
+      "market_name": "5s Plus",
+      "brand": "Xiaomi",
+      "variants": [
+        "natrium",
+        "natrium_global"
+      ]
+    },
+    {
+      "base_codename": "nezha",
+      "market_name": "17 Ultra",
+      "brand": "Xiaomi",
+      "variants": [
+        "nezha",
+        "nezha_eea_global",
+        "nezha_global",
+        "nezha_id_global",
+        "nezha_in_global",
+        "nezha_ru_global",
+        "nezha_tr_global",
+        "nezha_tw_global"
+      ]
+    },
+    {
+      "base_codename": "nikel",
+      "market_name": "Note 4 MTK",
+      "brand": "Redmi",
+      "variants": [
+        "nikel",
+        "nikel_global"
+      ]
+    },
+    {
+      "base_codename": "nitrogen",
+      "market_name": "Max 3",
+      "brand": "Xiaomi",
+      "variants": [
+        "nitrogen",
+        "nitrogen_global",
+        "nitrogen_ru_global"
+      ]
+    },
+    {
+      "base_codename": "nuwa",
+      "market_name": "13 Pro",
+      "brand": "Xiaomi",
+      "variants": [
+        "nuwa",
+        "nuwa_eea_global",
+        "nuwa_global",
+        "nuwa_in_global",
+        "nuwa_ru_global",
+        "nuwa_tr_global",
+        "nuwa_tw_global"
+      ]
+    },
+    {
+      "base_codename": "obsidian",
+      "market_name": "Note 14 Pro 4G",
+      "brand": "Redmi",
+      "variants": [
+        "obsidian_eea_global",
+        "obsidian_global",
+        "obsidian_ru_global",
+        "obsidian_tr_global"
+      ]
+    },
+    {
+      "base_codename": "odin",
+      "market_name": "MIX 4",
+      "brand": "Xiaomi",
+      "variants": [
+        "odin"
+      ]
+    },
+    {
+      "base_codename": "olive",
+      "market_name": "8",
+      "brand": "Redmi",
+      "variants": [
+        "olive",
+        "olive_eea_global",
+        "olive_global",
+        "olive_id_global",
+        "olive_in_global",
+        "olive_ru_global"
+      ]
+    },
+    {
+      "base_codename": "olivelite",
+      "market_name": "8A",
+      "brand": "Redmi",
+      "variants": [
+        "olivelite",
+        "olivelite_eea_global",
+        "olivelite_global",
+        "olivelite_id_global",
+        "olivelite_in_global",
+        "olivelite_ru_global"
+      ]
+    },
+    {
+      "base_codename": "olivewood",
+      "market_name": "8A Pro",
+      "brand": "Redmi",
+      "variants": [
+        "olivewood_id_global",
+        "olivewood_in_global"
+      ]
+    },
+    {
+      "base_codename": "omega",
+      "market_name": "Pro",
+      "brand": "Redmi",
+      "variants": [
+        "omega"
+      ]
+    },
+    {
+      "base_codename": "onc",
+      "market_name": "Y3",
+      "brand": "Redmi",
+      "variants": [
+        "onc_in_global"
+      ]
+    },
+    {
+      "base_codename": "onclite",
+      "market_name": "7",
+      "brand": "Redmi",
+      "variants": [
+        "onclite",
+        "onclite_eea_global",
+        "onclite_global",
+        "onclite_in_global",
+        "onclite_ru_global"
+      ]
+    },
+    {
+      "base_codename": "onyx",
+      "market_name": "F7",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "onyx",
+        "onyx_eea_global",
+        "onyx_global",
+        "onyx_id_global",
+        "onyx_in_global",
+        "onyx_ru_global",
+        "onyx_tr_global",
+        "onyx_tw_global"
+      ]
+    },
+    {
+      "base_codename": "opal",
+      "market_name": "Note 11S 5G",
+      "brand": "Redmi",
+      "variants": [
+        "opal_eea_global",
+        "opal_global",
+        "opal_ru_global",
+        "opal_tr_global",
+        "opal_tw_global"
+      ]
+    },
+    {
+      "base_codename": "oxygen",
+      "market_name": "Max 2",
+      "brand": "Xiaomi",
+      "variants": [
+        "oxygen",
+        "oxygen_global"
+      ]
+    },
+    {
+      "base_codename": "pandora",
+      "market_name": "17 Pro",
+      "brand": "Xiaomi",
+      "variants": [
+        "pandora"
+      ]
+    },
+    {
+      "base_codename": "pearl",
+      "market_name": "Note 12T Pro",
+      "brand": "Redmi",
+      "variants": [
+        "pearl"
+      ]
+    },
+    {
+      "base_codename": "peridot",
+      "market_name": "F6",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "peridot",
+        "peridot_eea_global",
+        "peridot_global",
+        "peridot_id_global",
+        "peridot_in_global",
+        "peridot_ru_global",
+        "peridot_tr_global",
+        "peridot_tw_global"
+      ]
+    },
+    {
+      "base_codename": "perseus",
+      "market_name": "MIX 3",
+      "brand": "Xiaomi",
+      "variants": [
+        "perseus",
+        "perseus_global",
+        "perseus_ru_global"
+      ]
+    },
+    {
+      "base_codename": "phoenix",
+      "market_name": "K30 4G",
+      "brand": "Redmi",
+      "variants": [
+        "phoenix"
+      ]
+    },
+    {
+      "base_codename": "phoenixin",
+      "market_name": "X2",
+      "brand": "POCO",
+      "variants": [
+        "phoenixin_in_global"
+      ]
+    },
+    {
+      "base_codename": "picasso",
+      "market_name": "K30 5G",
+      "brand": "Redmi",
+      "variants": [
+        "picasso"
+      ]
+    },
+    {
+      "base_codename": "picasso_48m",
+      "market_name": "K30i 5G",
+      "brand": "Redmi",
+      "variants": [
+        "picasso_48m"
+      ]
+    },
+    {
+      "base_codename": "pine",
+      "market_name": "7A",
+      "brand": "Redmi",
+      "variants": [
+        "pine",
+        "pine_eea_global",
+        "pine_global",
+        "pine_in_global",
+        "pine_ru_global"
+      ]
+    },
+    {
+      "base_codename": "pisces",
+      "market_name": "3 TD",
+      "brand": "Xiaomi",
+      "variants": [
+        "pisces"
+      ]
+    },
+    {
+      "base_codename": "pissarro",
+      "market_name": "11i 5G",
+      "brand": "Redmi/Xiaomi",
+      "variants": [
+        "pissarro",
+        "pissarro_eea_global",
+        "pissarro_global",
+        "pissarro_in_fk_global",
+        "pissarro_in_global",
+        "pissarro_ru_global",
+        "pissarro_tr_global",
+        "pissarro_tw_global"
+      ]
+    },
+    {
+      "base_codename": "platina",
+      "market_name": "8 Lite",
+      "brand": "Xiaomi",
+      "variants": [
+        "platina",
+        "platina_global",
+        "platina_ru_global"
+      ]
+    },
+    {
+      "base_codename": "plato",
+      "market_name": "12T",
+      "brand": "Xiaomi",
+      "variants": [
+        "plato_eea_global",
+        "plato_global",
+        "plato_id_global",
+        "plato_ru_global",
+        "plato_tr_global",
+        "plato_tw_global"
+      ]
+    },
+    {
+      "base_codename": "polaris",
+      "market_name": "MIX 2S",
+      "brand": "Xiaomi",
+      "variants": [
+        "polaris",
+        "polaris_global",
+        "polaris_ru_global"
+      ]
+    },
+    {
+      "base_codename": "popsicle",
+      "market_name": "17 Pro Max",
+      "brand": "Xiaomi",
+      "variants": [
+        "popsicle"
+      ]
+    },
+    {
+      "base_codename": "prada",
+      "market_name": "4",
+      "brand": "Redmi",
+      "variants": [
+        "prada",
+        "prada_global"
+      ]
+    },
+    {
+      "base_codename": "prague",
+      "market_name": "K90 Max",
+      "brand": "Redmi",
+      "variants": [
+        "prague"
+      ]
+    },
+    {
+      "base_codename": "psyche",
+      "market_name": "12X",
+      "brand": "Xiaomi",
+      "variants": [
+        "psyche",
+        "psyche_eea_global",
+        "psyche_global",
+        "psyche_ru_global",
+        "psyche_tw_global"
+      ]
+    },
+    {
+      "base_codename": "pudding",
+      "market_name": "17",
+      "brand": "Xiaomi",
+      "variants": [
+        "pudding",
+        "pudding_eea_global",
+        "pudding_global",
+        "pudding_id_global",
+        "pudding_in_global",
+        "pudding_ru_global",
+        "pudding_tr_global",
+        "pudding_tw_global"
+      ]
+    },
+    {
+      "base_codename": "pyxis",
+      "market_name": "CC 9",
+      "brand": "Xiaomi",
+      "variants": [
+        "pyxis",
+        "pyxis_eea_global",
+        "pyxis_global",
+        "pyxis_ru_global"
+      ]
+    },
+    {
+      "base_codename": "raphael",
+      "market_name": "9T Pro",
+      "brand": "Redmi/Xiaomi",
+      "variants": [
+        "raphael",
+        "raphael_eea_global",
+        "raphael_global",
+        "raphael_ru_global"
+      ]
+    },
+    {
+      "base_codename": "raphaelin",
+      "market_name": "K20 Pro",
+      "brand": "Redmi",
+      "variants": [
+        "raphaelin_in_global"
+      ]
+    },
+    {
+      "base_codename": "raphaels",
+      "market_name": "K20 Pro Premium Edition",
+      "brand": "Redmi",
+      "variants": [
+        "raphaels"
+      ]
+    },
+    {
+      "base_codename": "redwood",
+      "market_name": "X5 Pro 5G",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "redwood",
+        "redwood_eea_global",
+        "redwood_global",
+        "redwood_id_global",
+        "redwood_in_global",
+        "redwood_ru_global",
+        "redwood_tr_global",
+        "redwood_tw_global"
+      ]
+    },
+    {
+      "base_codename": "rembrandt",
+      "market_name": "K60E",
+      "brand": "Redmi",
+      "variants": [
+        "rembrandt"
+      ]
+    },
+    {
+      "base_codename": "renoir",
+      "market_name": "11 Lite 5G",
+      "brand": "Xiaomi",
+      "variants": [
+        "renoir",
+        "renoir_eea_global",
+        "renoir_global",
+        "renoir_id_global",
+        "renoir_jp_global",
+        "renoir_ru_global",
+        "renoir_tr_global",
+        "renoir_tw_global"
+      ]
+    },
+    {
+      "base_codename": "riva",
+      "market_name": "5A",
+      "brand": "Redmi",
+      "variants": [
+        "riva",
+        "riva_global"
+      ]
+    },
+    {
+      "base_codename": "rock",
+      "market_name": "M5",
+      "brand": "POCO",
+      "variants": [
+        "rock_eea_global",
+        "rock_global",
+        "rock_id_global",
+        "rock_in_global",
+        "rock_ru_global",
+        "rock_tr_global",
+        "rock_tw_global"
+      ]
+    },
+    {
+      "base_codename": "rodin",
+      "market_name": "X7 Pro",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "rodin",
+        "rodin_eea_global",
+        "rodin_global",
+        "rodin_id_global",
+        "rodin_in_global",
+        "rodin_ru_global",
+        "rodin_tr_global",
+        "rodin_tw_global"
+      ]
+    },
+    {
+      "base_codename": "rolex",
+      "market_name": "4A",
+      "brand": "Redmi",
+      "variants": [
+        "rolex",
+        "rolex_global"
+      ]
+    },
+    {
+      "base_codename": "rosemary",
+      "market_name": "Note 10S",
+      "brand": "Redmi",
+      "variants": [
+        "rosemary_eea_global",
+        "rosemary_global",
+        "rosemary_id_global",
+        "rosemary_in_global",
+        "rosemary_ru_global",
+        "rosemary_tr_global",
+        "rosemary_tw_global"
+      ]
+    },
+    {
+      "base_codename": "rosemary_p",
+      "market_name": "M5S",
+      "brand": "POCO",
+      "variants": [
+        "rosemary_p_eea_global",
+        "rosemary_p_global",
+        "rosemary_p_id_global",
+        "rosemary_p_ru_global",
+        "rosemary_p_tr_global",
+        "rosemary_p_tw_global"
+      ]
+    },
+    {
+      "base_codename": "rosy",
+      "market_name": "5",
+      "brand": "Redmi",
+      "variants": [
+        "rosy",
+        "rosy_global",
+        "rosy_ru_global"
+      ]
+    },
+    {
+      "base_codename": "rothko",
+      "market_name": "14T Pro",
+      "brand": "Redmi/Xiaomi",
+      "variants": [
+        "rothko",
+        "rothko_eea_global",
+        "rothko_global",
+        "rothko_id_global",
+        "rothko_jp_global",
+        "rothko_ru_global",
+        "rothko_tr_global",
+        "rothko_tw_global"
+      ]
+    },
+    {
+      "base_codename": "rubens",
+      "market_name": "K50",
+      "brand": "Redmi",
+      "variants": [
+        "rubens"
+      ]
+    },
+    {
+      "base_codename": "ruby",
+      "market_name": "Note 12 Pro / Pro+ 5G",
+      "brand": "Redmi",
+      "variants": [
+        "ruby",
+        "ruby_eea_global",
+        "ruby_global",
+        "ruby_id_global",
+        "ruby_in_global",
+        "ruby_kr_global",
+        "ruby_ru_global",
+        "ruby_tr_global",
+        "ruby_tw_global"
+      ]
+    },
+    {
+      "base_codename": "ruyi",
+      "market_name": "MIX Flip",
+      "brand": "Xiaomi",
+      "variants": [
+        "ruyi",
+        "ruyi_eea_global",
+        "ruyi_global",
+        "ruyi_ru_global",
+        "ruyi_tr_global",
+        "ruyi_tw_global"
+      ]
+    },
+    {
+      "base_codename": "sagit",
+      "market_name": "6",
+      "brand": "Xiaomi",
+      "variants": [
+        "sagit",
+        "sagit_global"
+      ]
+    },
+    {
+      "base_codename": "sakura",
+      "market_name": "6 Pro",
+      "brand": "Redmi",
+      "variants": [
+        "sakura"
+      ]
+    },
+    {
+      "base_codename": "sakura_india",
+      "market_name": "6 Pro",
+      "brand": "Redmi",
+      "variants": [
+        "sakura_india_global"
+      ]
+    },
+    {
+      "base_codename": "santoni",
+      "market_name": "4X",
+      "brand": "Redmi",
+      "variants": [
+        "santoni",
+        "santoni_global"
+      ]
+    },
+    {
+      "base_codename": "sapphire",
+      "market_name": "Note 13",
+      "brand": "Redmi",
+      "variants": [
+        "sapphire_global"
+      ]
+    },
+    {
+      "base_codename": "sapphiren",
+      "market_name": "Note 13 NFC",
+      "brand": "Redmi",
+      "variants": [
+        "sapphiren_eea_global",
+        "sapphiren_global",
+        "sapphiren_id_global",
+        "sapphiren_ru_global",
+        "sapphiren_tr_global",
+        "sapphiren_tw_global"
+      ]
+    },
+    {
+      "base_codename": "scorpio",
+      "market_name": "Note 2",
+      "brand": "Xiaomi",
+      "variants": [
+        "scorpio",
+        "scorpio_global"
+      ]
+    },
+    {
+      "base_codename": "sea",
+      "market_name": "Note 12S",
+      "brand": "Redmi",
+      "variants": [
+        "sea_eea_global",
+        "sea_global",
+        "sea_ru_global",
+        "sea_tr_global",
+        "sea_tw_global"
+      ]
+    },
+    {
+      "base_codename": "selene",
+      "market_name": "10 / Redmi 10 2022",
+      "brand": "Redmi",
+      "variants": [
+        "selene",
+        "selene_eea_global",
+        "selene_global",
+        "selene_id_global",
+        "selene_in_global",
+        "selene_ru_global",
+        "selene_tr_global",
+        "selene_tw_global"
+      ]
+    },
+    {
+      "base_codename": "selenes",
+      "market_name": "10 2022",
+      "brand": "Redmi",
+      "variants": [
+        "selenes",
+        "selenes_eea_global",
+        "selenes_global",
+        "selenes_id_global",
+        "selenes_in_global",
+        "selenes_ru_global",
+        "selenes_tr_global",
+        "selenes_tw_global"
+      ]
+    },
+    {
+      "base_codename": "serenity",
+      "market_name": "A5 / A7 / POCO C71 / C81x",
+      "brand": "Redmi",
+      "variants": [
+        "serenity_eea_global",
+        "serenity_global",
+        "serenity_id_global",
+        "serenity_in_global",
+        "serenity_ru_global"
+      ]
+    },
+    {
+      "base_codename": "shennong",
+      "market_name": "14 Pro",
+      "brand": "Xiaomi",
+      "variants": [
+        "shennong",
+        "shennong_eea_global",
+        "shennong_global",
+        "shennong_id_global",
+        "shennong_in_global",
+        "shennong_ru_global",
+        "shennong_tr_global",
+        "shennong_tw_global"
+      ]
+    },
+    {
+      "base_codename": "shennong_t",
+      "market_name": "14 Pro Ti Satellite",
+      "brand": "Xiaomi",
+      "variants": [
+        "shennong_t"
+      ]
+    },
+    {
+      "base_codename": "shennongt",
+      "market_name": "14 Pro Ti Satellite",
+      "brand": "Xiaomi",
+      "variants": [
+        "shennongt"
+      ]
+    },
+    {
+      "base_codename": "shiva",
+      "market_name": "M2",
+      "brand": "POCO",
+      "variants": [
+        "shiva_in_global"
+      ]
+    },
+    {
+      "base_codename": "sirius",
+      "market_name": "8 SE",
+      "brand": "Xiaomi",
+      "variants": [
+        "sirius"
+      ]
+    },
+    {
+      "base_codename": "sky",
+      "market_name": "12 5G",
+      "brand": "Redmi",
+      "variants": [
+        "sky",
+        "sky_eea_global",
+        "sky_global",
+        "sky_in_global",
+        "sky_jp_global",
+        "sky_tw_global"
+      ]
+    },
+    {
+      "base_codename": "socrates",
+      "market_name": "K60 Pro",
+      "brand": "Redmi",
+      "variants": [
+        "socrates"
+      ]
+    },
+    {
+      "base_codename": "somalia",
+      "market_name": "A7 Pro 5G",
+      "brand": "Redmi",
+      "variants": [
+        "somalia",
+        "somalia_global",
+        "somalia_in_global"
+      ]
+    },
+    {
+      "base_codename": "songyuan",
+      "market_name": "F9 Ultra",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "songyuan",
+        "songyuan_eea_global",
+        "songyuan_global",
+        "songyuan_id_global",
+        "songyuan_jp_global",
+        "songyuan_ru_global",
+        "songyuan_tr_global",
+        "songyuan_tw_global"
+      ]
+    },
+    {
+      "base_codename": "spes",
+      "market_name": "Note 11",
+      "brand": "Redmi",
+      "variants": [
+        "spes_global",
+        "spes_in_global",
+        "spes_tr_global"
+      ]
+    },
+    {
+      "base_codename": "spesn",
+      "market_name": "Note 11 NFC",
+      "brand": "Redmi",
+      "variants": [
+        "spesn_eea_global",
+        "spesn_global",
+        "spesn_id_global",
+        "spesn_ru_global"
+      ]
+    },
+    {
+      "base_codename": "spinel",
+      "market_name": "Note 15 4G",
+      "brand": "Redmi",
+      "variants": [
+        "spinel_eea_global",
+        "spinel_global",
+        "spinel_id_global",
+        "spinel_ru_global",
+        "spinel_tr_global",
+        "spinel_tw_global"
+      ]
+    },
+    {
+      "base_codename": "spring",
+      "market_name": "15R 5G",
+      "brand": "Redmi",
+      "variants": [
+        "spring",
+        "spring_eea_global",
+        "spring_global",
+        "spring_in_global",
+        "spring_jp_global",
+        "spring_ru_global",
+        "spring_tr_global",
+        "spring_tw_global"
+      ]
+    },
+    {
+      "base_codename": "star",
+      "market_name": "11 Ultra",
+      "brand": "Xiaomi",
+      "variants": [
+        "star",
+        "star_eea_global",
+        "star_global",
+        "star_id_global",
+        "star_in_global",
+        "star_ru_global"
+      ]
+    },
+    {
+      "base_codename": "steppe",
+      "market_name": "M100",
+      "brand": "Redmi",
+      "variants": [
+        "steppe",
+        "steppe_eea_global",
+        "steppe_global",
+        "steppe_id_global",
+        "steppe_in_global",
+        "steppe_ru_global",
+        "steppe_tr_global",
+        "steppe_tw_global"
+      ]
+    },
+    {
+      "base_codename": "sunstone",
+      "market_name": "Note 12 5G",
+      "brand": "Redmi",
+      "variants": [
+        "sunstone",
+        "sunstone_eea_global",
+        "sunstone_global",
+        "sunstone_in_global",
+        "sunstone_tw_global"
+      ]
+    },
+    {
+      "base_codename": "surya",
+      "market_name": "X3",
+      "brand": "POCO",
+      "variants": [
+        "surya_eea_global",
+        "surya_global",
+        "surya_id_global",
+        "surya_in_global",
+        "surya_ru_global",
+        "surya_tr_global"
+      ]
+    },
+    {
+      "base_codename": "sweet",
+      "market_name": "Note 10 Pro",
+      "brand": "Redmi",
+      "variants": [
+        "sweet_eea_global",
+        "sweet_global",
+        "sweet_id_global",
+        "sweet_ru_global",
+        "sweet_tr_global",
+        "sweet_tw_global"
+      ]
+    },
+    {
+      "base_codename": "sweet_k6a",
+      "market_name": "Note 12 Pro 4G",
+      "brand": "Redmi",
+      "variants": [
+        "sweet_k6a_eea_global",
+        "sweet_k6a_global",
+        "sweet_k6a_id_global",
+        "sweet_k6a_ru_global",
+        "sweet_k6a_tr_global",
+        "sweet_k6a_tw_global"
+      ]
+    },
+    {
+      "base_codename": "sweetin",
+      "market_name": "Note 10 Pro / Pro Max",
+      "brand": "Redmi",
+      "variants": [
+        "sweetin_in_global"
+      ]
+    },
+    {
+      "base_codename": "tanzanite",
+      "market_name": "Note 14 4G",
+      "brand": "Redmi",
+      "variants": [
+        "tanzanite_eea_global",
+        "tanzanite_global",
+        "tanzanite_id_global",
+        "tanzanite_ru_global",
+        "tanzanite_tr_global",
+        "tanzanite_tw_global"
+      ]
+    },
+    {
+      "base_codename": "taoyao",
+      "market_name": "12 Lite",
+      "brand": "Xiaomi",
+      "variants": [
+        "taoyao_eea_global",
+        "taoyao_global",
+        "taoyao_id_global",
+        "taoyao_ru_global",
+        "taoyao_tr_global",
+        "taoyao_tw_global"
+      ]
+    },
+    {
+      "base_codename": "tapas",
+      "market_name": "Note 12 4G",
+      "brand": "Redmi",
+      "variants": [
+        "tapas_global",
+        "tapas_in_global",
+        "tapas_tr_global"
+      ]
+    },
+    {
+      "base_codename": "taurus",
+      "market_name": "2A",
+      "brand": "Xiaomi",
+      "variants": [
+        "taurus"
+      ]
+    },
+    {
+      "base_codename": "thor",
+      "market_name": "12S Ultra",
+      "brand": "Xiaomi",
+      "variants": [
+        "thor"
+      ]
+    },
+    {
+      "base_codename": "thyme",
+      "market_name": "10S",
+      "brand": "Xiaomi",
+      "variants": [
+        "thyme"
+      ]
+    },
+    {
+      "base_codename": "tiare",
+      "market_name": "Go",
+      "brand": "Redmi",
+      "variants": [
+        "tiare_eea_global",
+        "tiare_global",
+        "tiare_in_global",
+        "tiare_ru_global"
+      ]
+    },
+    {
+      "base_codename": "tiffany",
+      "market_name": "5X",
+      "brand": "Xiaomi",
+      "variants": [
+        "tiffany"
+      ]
+    },
+    {
+      "base_codename": "tissot",
+      "market_name": "A1",
+      "brand": "Xiaomi",
+      "variants": [
+        "tissot"
+      ]
+    },
+    {
+      "base_codename": "toco",
+      "market_name": "Note 10 Lite",
+      "brand": "Xiaomi",
+      "variants": [
+        "toco_eea_global",
+        "toco_global",
+        "toco_ru_global",
+        "toco_tr_global"
+      ]
+    },
+    {
+      "base_codename": "topaz",
+      "market_name": "Note 12 4G NFC",
+      "brand": "Redmi",
+      "variants": [
+        "topaz_eea_global",
+        "topaz_global",
+        "topaz_id_global",
+        "topaz_ru_global"
+      ]
+    },
+    {
+      "base_codename": "tornado",
+      "market_name": "TBD",
+      "brand": "Redmi/Xiaomi",
+      "variants": [
+        "tornado",
+        "tornado_eea_global",
+        "tornado_global",
+        "tornado_id_global",
+        "tornado_in_global",
+        "tornado_jp_global",
+        "tornado_tr_global"
+      ]
+    },
+    {
+      "base_codename": "tucana",
+      "market_name": "CC 9 Pro",
+      "brand": "Xiaomi",
+      "variants": [
+        "tucana",
+        "tucana_eea_global",
+        "tucana_global",
+        "tucana_id_global",
+        "tucana_ru_global"
+      ]
+    },
+    {
+      "base_codename": "tulip",
+      "market_name": "Note 6 Pro",
+      "brand": "Redmi",
+      "variants": [
+        "tulip_global",
+        "tulip_ru_global"
+      ]
+    },
+    {
+      "base_codename": "ugg",
+      "market_name": "Note 5A Prime",
+      "brand": "Redmi",
+      "variants": [
+        "ugg",
+        "ugg_global"
+      ]
+    },
+    {
+      "base_codename": "ugglite",
+      "market_name": "Note 5A (2GB)",
+      "brand": "Redmi",
+      "variants": [
+        "ugglite",
+        "ugglite_global"
+      ]
+    },
+    {
+      "base_codename": "umi",
+      "market_name": "10",
+      "brand": "Xiaomi",
+      "variants": [
+        "umi",
+        "umi_eea_global",
+        "umi_global",
+        "umi_id_global",
+        "umi_in_global",
+        "umi_ru_global",
+        "umi_tr_global"
+      ]
+    },
+    {
+      "base_codename": "unicorn",
+      "market_name": "12S Pro",
+      "brand": "Xiaomi",
+      "variants": [
+        "unicorn"
+      ]
+    },
+    {
+      "base_codename": "ursa",
+      "market_name": "8 Explorer",
+      "brand": "Xiaomi",
+      "variants": [
+        "ursa"
+      ]
+    },
+    {
+      "base_codename": "vangogh",
+      "market_name": "10 Lite Zoom",
+      "brand": "Xiaomi",
+      "variants": [
+        "vangogh"
+      ]
+    },
+    {
+      "base_codename": "vayu",
+      "market_name": "X3 Pro",
+      "brand": "POCO",
+      "variants": [
+        "vayu_eea_global",
+        "vayu_global",
+        "vayu_id_global",
+        "vayu_in_global",
+        "vayu_ru_global",
+        "vayu_tr_global",
+        "vayu_tw_global"
+      ]
+    },
+    {
+      "base_codename": "vela",
+      "market_name": "CC 9 Meitu Edition",
+      "brand": "Xiaomi",
+      "variants": [
+        "vela"
+      ]
+    },
+    {
+      "base_codename": "venus",
+      "market_name": "11",
+      "brand": "Xiaomi",
+      "variants": [
+        "venus",
+        "venus_eea_global",
+        "venus_global",
+        "venus_id_global",
+        "venus_in_global",
+        "venus_ru_global",
+        "venus_tr_global",
+        "venus_tw_global"
+      ]
+    },
+    {
+      "base_codename": "vermeer",
+      "market_name": "K70",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "vermeer",
+        "vermeer_eea_global",
+        "vermeer_global",
+        "vermeer_id_global",
+        "vermeer_in_global",
+        "vermeer_ru_global",
+        "vermeer_tr_global",
+        "vermeer_tw_global"
+      ]
+    },
+    {
+      "base_codename": "veux",
+      "market_name": "Note 11E Pro",
+      "brand": "Redmi",
+      "variants": [
+        "veux",
+        "veux_eea_global",
+        "veux_global",
+        "veux_id_global",
+        "veux_in_global",
+        "veux_jp_global",
+        "veux_ru_global",
+        "veux_tr_global",
+        "veux_tw_global"
+      ]
+    },
+    {
+      "base_codename": "vida",
+      "market_name": "Note 11 Pro 4G",
+      "brand": "Redmi",
+      "variants": [
+        "vida_in_global"
+      ]
+    },
+    {
+      "base_codename": "vili",
+      "market_name": "11T Pro",
+      "brand": "Xiaomi",
+      "variants": [
+        "vili_eea_global",
+        "vili_global",
+        "vili_id_global",
+        "vili_in_global",
+        "vili_jp_global",
+        "vili_ru_global",
+        "vili_tr_global",
+        "vili_tw_global"
+      ]
+    },
+    {
+      "base_codename": "vince",
+      "market_name": "5 Plus",
+      "brand": "Redmi",
+      "variants": [
+        "vince",
+        "vince_global",
+        "vince_ru_global"
+      ]
+    },
+    {
+      "base_codename": "violet",
+      "market_name": "Note 7 Pro",
+      "brand": "Redmi",
+      "variants": [
+        "violet",
+        "violet_in_global"
+      ]
+    },
+    {
+      "base_codename": "virgo",
+      "market_name": "Note",
+      "brand": "Xiaomi",
+      "variants": [
+        "virgo",
+        "virgo_global"
+      ]
+    },
+    {
+      "base_codename": "virgo_lte",
+      "market_name": "Note LTE CT",
+      "brand": "Xiaomi",
+      "variants": [
+        "virgo_lte_ct"
+      ]
+    },
+    {
+      "base_codename": "viva",
+      "market_name": "Note 11 Pro 4G",
+      "brand": "Redmi",
+      "variants": [
+        "viva_eea_global",
+        "viva_global",
+        "viva_id_global",
+        "viva_ru_global",
+        "viva_tr_global",
+        "viva_tw_global"
+      ]
+    },
+    {
+      "base_codename": "warhol",
+      "market_name": "17T Pro",
+      "brand": "Xiaomi",
+      "variants": [
+        "warhol",
+        "warhol_eea_global",
+        "warhol_global",
+        "warhol_id_global",
+        "warhol_jp_global",
+        "warhol_ru_global",
+        "warhol_tr_global",
+        "warhol_tw_global"
+      ]
+    },
+    {
+      "base_codename": "warm",
+      "market_name": "A4 5G",
+      "brand": "Redmi",
+      "variants": [
+        "warm_global",
+        "warm_in_global"
+      ]
+    },
+    {
+      "base_codename": "warsaw",
+      "market_name": "K90 Ultra",
+      "brand": "Redmi",
+      "variants": [
+        "warsaw"
+      ]
+    },
+    {
+      "base_codename": "water",
+      "market_name": "A2 / A2+ / POCO C51",
+      "brand": "Redmi",
+      "variants": [
+        "water_eea_global",
+        "water_global",
+        "water_id_global",
+        "water_in_global",
+        "water_ru_global",
+        "water_tw_global"
+      ]
+    },
+    {
+      "base_codename": "wayne",
+      "market_name": "6X",
+      "brand": "Xiaomi",
+      "variants": [
+        "wayne"
+      ]
+    },
+    {
+      "base_codename": "whyred",
+      "market_name": "Note 5",
+      "brand": "Redmi",
+      "variants": [
+        "whyred",
+        "whyred_global",
+        "whyred_ru_global"
+      ]
+    },
+    {
+      "base_codename": "willow",
+      "market_name": "Note 8T",
+      "brand": "Redmi",
+      "variants": [
+        "willow_eea_global",
+        "willow_global",
+        "willow_ru_global"
+      ]
+    },
+    {
+      "base_codename": "wt86047",
+      "market_name": "2",
+      "brand": "Redmi",
+      "variants": [
+        "wt86047"
+      ]
+    },
+    {
+      "base_codename": "wt86047_pro",
+      "market_name": "2 Pro",
+      "brand": "Redmi",
+      "variants": [
+        "wt86047_pro"
+      ]
+    },
+    {
+      "base_codename": "wt88047",
+      "market_name": "2",
+      "brand": "Redmi",
+      "variants": [
+        "wt88047",
+        "wt88047_global"
+      ]
+    },
+    {
+      "base_codename": "wt88047_pro",
+      "market_name": "2 Pro",
+      "brand": "Redmi",
+      "variants": [
+        "wt88047_pro",
+        "wt88047_pro_global"
+      ]
+    },
+    {
+      "base_codename": "wt98007",
+      "market_name": "1",
+      "brand": "Redmi",
+      "variants": [
+        "wt98007"
+      ]
+    },
+    {
+      "base_codename": "xaga",
+      "market_name": "K50i / Pro",
+      "brand": "Redmi",
+      "variants": [
+        "xaga",
+        "xaga_eea_global",
+        "xaga_global",
+        "xaga_in_global",
+        "xaga_ru_global",
+        "xaga_tr_global",
+        "xaga_tw_global"
+      ]
+    },
+    {
+      "base_codename": "xuanyuan",
+      "market_name": "15 Ultra",
+      "brand": "Xiaomi",
+      "variants": [
+        "xuanyuan",
+        "xuanyuan_eea_global",
+        "xuanyuan_global",
+        "xuanyuan_id_global",
+        "xuanyuan_in_global",
+        "xuanyuan_ru_global",
+        "xuanyuan_tr_global",
+        "xuanyuan_tw_global"
+      ]
+    },
+    {
+      "base_codename": "ysl",
+      "market_name": "S2",
+      "brand": "Redmi",
+      "variants": [
+        "ysl",
+        "ysl_global",
+        "ysl_ru_global"
+      ]
+    },
+    {
+      "base_codename": "yuechu",
+      "market_name": "Civi 3",
+      "brand": "Xiaomi",
+      "variants": [
+        "yuechu"
+      ]
+    },
+    {
+      "base_codename": "zephyr",
+      "market_name": "Note 17 4G",
+      "brand": "Redmi",
+      "variants": [
+        "zephyr_eea_global",
+        "zephyr_global",
+        "zephyr_id_global",
+        "zephyr_ru_global",
+        "zephyr_tr_global",
+        "zephyr_tw_global"
+      ]
+    },
+    {
+      "base_codename": "zeus",
+      "market_name": "12 Pro",
+      "brand": "Xiaomi",
+      "variants": [
+        "zeus",
+        "zeus_eea_global",
+        "zeus_global",
+        "zeus_id_global",
+        "zeus_in_global",
+        "zeus_ru_global",
+        "zeus_tr_global",
+        "zeus_tw_global"
+      ]
+    },
+    {
+      "base_codename": "zijin",
+      "market_name": "Civi 1S",
+      "brand": "Xiaomi",
+      "variants": [
+        "zijin"
+      ]
+    },
+    {
+      "base_codename": "zircon",
+      "market_name": "Note 13 Pro+ 5G",
+      "brand": "Redmi",
+      "variants": [
+        "zircon",
+        "zircon_eea_global",
+        "zircon_global",
+        "zircon_id_global",
+        "zircon_in_global",
+        "zircon_ru_global",
+        "zircon_tr_global",
+        "zircon_tw_global"
+      ]
+    },
+    {
+      "base_codename": "ziyi",
+      "market_name": "Civi 2",
+      "brand": "Xiaomi",
+      "variants": [
+        "ziyi",
+        "ziyi_eea_global",
+        "ziyi_global",
+        "ziyi_ru_global",
+        "ziyi_tr_global",
+        "ziyi_tw_global"
+      ]
+    },
+    {
+      "base_codename": "zorn",
+      "market_name": "K80",
+      "brand": "POCO/Redmi",
+      "variants": [
+        "zorn",
+        "zorn_eea_global",
+        "zorn_global",
+        "zorn_id_global",
+        "zorn_ru_global",
+        "zorn_tr_global",
+        "zorn_tw_global"
+      ]
+    }
+  ]
+}
